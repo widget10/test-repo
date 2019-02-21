@@ -1,0 +1,11 @@
+Total offices : 8 , Total employees per office avg. = ?
+Supervisor of tasks and sub-tasks?
+Who is responsible to include progresses of subtasks
+Sequence of tasks and sub-tasks
+Task dependencies? (Initiation of task depends on some previous task, progress affects some other task)
+Any independent tasks? (Neither initiation nor progress is dependent or affects any other task)
+What are the markers for low productivity?
+HIERARCHY of employment/offices
+How many subtasks per office in general?
+Sample sequence of subtasks of a office such as Delhi headquarter
+Current digital or database records?
